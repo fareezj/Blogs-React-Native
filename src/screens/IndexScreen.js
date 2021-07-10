@@ -27,7 +27,7 @@ const IndexScreen = ({ navigation }) => {
 
  return (
   <View>
-   <Text>Index Screen</Text>
+   <Text>Index hello Screen</Text>
    <FlatList
     data={state}
     keyExtractor={(blogPost) => blogPost.title}
