@@ -14,6 +14,7 @@ const ShowScreen = ({ navigation }) => {
   <View>
    <Text>Feature A Init</Text>
    <Text>Feature A Init</Text>
+   <Text>Feature A Init</Text>
    <Text>{blogPost.title}</Text>
    <Text>{blogPost.content}</Text>
   </View>
